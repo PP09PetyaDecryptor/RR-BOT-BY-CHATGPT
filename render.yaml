@@ -1,0 +1,4 @@
+services:
+  - name: ANTI NUKE CM
+    env: node
+    startCommand: node index.js
